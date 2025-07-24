@@ -1,0 +1,25 @@
+﻿<Window x:Class="LR1_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LR1_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="PlanetsListBox" SelectionChanged="PlanetsListBox_SelectionChanged" Margin="5" Width="100" Height="150" Grid.Column="0" FontWeight="Bold">
+            <ListBoxItem>Меркурий</ListBoxItem>
+            <ListBoxItem>Венера</ListBoxItem>
+            <ListBoxItem>Земля</ListBoxItem>
+            <ListBoxItem>Марс</ListBoxItem>
+            <ListBoxItem>Юпитер</ListBoxItem>
+            <ListBoxItem>Сатурн</ListBoxItem>
+        </ListBox>
+        <TextBlock x:Name="InfoTextBlock" Margin="5" TextWrapping="Wrap" Height="150" Width="450" Grid.Column="1" FontWeight="Bold" Text="Выберите планету из списка"/>
+
+    </Grid>
+</Window>
