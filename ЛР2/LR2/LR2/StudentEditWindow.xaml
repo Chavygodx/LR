@@ -1,0 +1,61 @@
+﻿<Window x:Class="LR2.StudentEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LR2"
+        mc:Ignorable="d"
+        Title="Редактирование студента" Height="300" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="ID" Margin="5"/>
+        <TextBox x:Name="txtId" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="ФИО" Margin="5"/>
+        <TextBox x:Name="txtFullName" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Дата Рождения" Margin="5"/>
+        <DatePicker x:Name="dpBirthDate" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Физика" Margin="5"/>
+        <ComboBox x:Name="cbPhysics" Grid.Row="3" Grid.Column="1" Margin="5" SelectedIndex="0">
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="Математика" Margin="5"/>
+            <ComboBox x:Name="cbMath" Grid.Row="4" Grid.Column="1" Margin="5" SelectedIndex="0">
+                <ComboBoxItem Content="2"/>
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="4"/>
+                <ComboBoxItem Content="5"/>
+            </ComboBox>
+
+        <StackPanel Grid.Row="7" Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="btOk" Content="OK" Width="80" Margin="5" Click="BtnOk_Click"/>
+            <Button x:Name="brCancel" Content="Отмена" Width="80" Margin="5" Click="BtnCancel_Click"/>
+        </StackPanel>
+
+
+
+
+
+    </Grid>
+</Window>
