@@ -1,0 +1,5 @@
+C:\Users\Chav\Desktop\lab1-1\lab1\bin\Release\net8.0-windows\publish\lab1.exe
+C:\Users\Chav\Desktop\lab1-1\lab1\bin\Release\net8.0-windows\publish\lab1.dll
+C:\Users\Chav\Desktop\lab1-1\lab1\bin\Release\net8.0-windows\publish\lab1.deps.json
+C:\Users\Chav\Desktop\lab1-1\lab1\bin\Release\net8.0-windows\publish\lab1.runtimeconfig.json
+C:\Users\Chav\Desktop\lab1-1\lab1\bin\Release\net8.0-windows\publish\lab1.pdb
