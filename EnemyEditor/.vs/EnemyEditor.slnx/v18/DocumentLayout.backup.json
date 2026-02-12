@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|c:\\users\\chav\\desktop\\\u043B\u04402\\enemyeditor\\cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC07444-80C0-459C-808F-59784E52FE3C}|EnemyEditor.csproj|solutionrelative:cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CEnemyTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\CEnemyTemplate.cs",
+              "RelativeDocumentMoniker": "CEnemyTemplate.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\CEnemyTemplate.cs",
+              "RelativeToolTip": "CEnemyTemplate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:33:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T11:29:38.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04202\\EnemyEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:29:38.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+﻿<Window x:Class="EnemyEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Editor_v0.1" Height="500" Width="900"
+        ResizeMode="NoResize">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+        
+        <Border Grid.Column="0" BorderBrush="Gray" BorderThickness="1">
+            <StackPanel>
+                <Label Content="List of enemies:" FontWeight="Bold" 
+                       FontSize="14" Margin="10,10,10,5"/>
+                <ListBox x:Name="EnemiesListBox" Height="300" Margin="10"
+                         SelectionChanged="EnemiesListBox_SelectionChanged">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            
+                            <TextBlock Text="{Binding Name}" FontSize="12" Margin="2"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </Border>
+
+        
+        <Grid Grid.Column="1" Margin="10,0,10,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+           
+            <Grid Grid.Row="0" Margin="0,0,0,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Grid.Column="0" BorderBrush="Black" BorderThickness="2"
+                        Width="100" Height="100" Margin="0,0,20,0">
+                    <Grid>
+                        <Rectangle Stroke="Gray" StrokeDashArray="2,2" Fill="LightGray"/>
+                        <Image x:Name="EnemyIconImage" Stretch="Uniform" Visibility="Collapsed"/>
+                        <TextBlock x:Name="IconPlaceholderText" Text="Enemy Icon"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"
+                                   Foreground="Gray"/>
+                    </Grid>
+                </Border>
+
+                <StackPanel Grid.Column="1">
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBlock Text="Icon name:" Width="80" FontSize="12"/>
+                        <ComboBox x:Name="IconNameComboBox" Width="150" FontSize="12"
+                                  SelectionChanged="IconNameComboBox_SelectionChanged"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Enemy Name:" Width="80" FontSize="12"/>
+                        <TextBox x:Name="EnemyNameTextBox" Width="150" FontSize="12"
+                                 TextChanged="Field_TextChanged"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Base life:" FontSize="12" Margin="0,0,0,5"/>
+                    <TextBox x:Name="BaseLifeTextBox" Width="150" FontSize="12"
+                             TextChanged="Field_TextChanged"/>
+                </StackPanel>
+                <StackPanel Margin="30,0,0,0">
+                    <TextBlock Text="Base gold:" FontSize="12" Margin="0,0,0,5"/>
+                    <TextBox x:Name="BaseGoldTextBox" Width="150" FontSize="12"
+                             TextChanged="Field_TextChanged"/>
+                </StackPanel>
+            </StackPanel>
+
+            
+            <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Life modifier:" FontSize="12" Margin="0,0,0,5"/>
+                    <TextBox x:Name="LifeModifierTextBox" Width="150" FontSize="12"
+                             TextChanged="Field_TextChanged"/>
+                </StackPanel>
+                <StackPanel Margin="30,0,0,0">
+                    <TextBlock Text="Gold modifier:" FontSize="12" Margin="0,0,0,5"/>
+                    <TextBox x:Name="GoldModifierTextBox" Width="150" FontSize="12"
+                             TextChanged="Field_TextChanged"/>
+                </StackPanel>
+            </StackPanel>
+
+          
+            <StackPanel Grid.Row="3" VerticalAlignment="Bottom">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="SaveButton" Content="Save" Width="60" Height="25"
+                            Grid.Column="0" Margin="0,0,10,0" Click="SaveButton_Click"/>
+                    <Button x:Name="LoadButton" Content="Load" Width="60" Height="25"
+                            Grid.Column="1" Margin="0,0,10,0" Click="LoadButton_Click"/>
+
+                    <StackPanel Grid.Column="2" Orientation="Vertical" Margin="0,0,10,0" Width="120">
+                        <TextBlock Text="Spawn chance (1-100):" FontSize="11" Margin="0,0,0,2"/>
+                        <TextBox x:Name="SpawnChanceTextBox" Width="120" Height="25" FontSize="12"
+                                 Text="13" TextChanged="Field_TextChanged"/>
+                    </StackPanel>
+
+                    <Button x:Name="AddButton" Content="Add" Width="60" Height="25"
+                            Grid.Column="3" Margin="0,0,10,0" Click="AddButton_Click"/>
+                    <Button x:Name="RemoveButton" Content="Remove" Width="60" Height="25"
+                            Grid.Column="4" Click="RemoveButton_Click"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+
+        
+        <Border Grid.Column="2" BorderBrush="Gray" BorderThickness="1">
+            <StackPanel>
+                <Label Content="Available Icons:" FontWeight="Bold" 
+                       FontSize="14" Margin="10,10,10,5"/>
+                <ListBox x:Name="IconsListBox" Height="350" Margin="10"
+                         SelectionChanged="IconsListBox_SelectionChanged">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="{Binding Image}" Width="40" Height="40"
+                                       Margin="0,0,10,0" Stretch="Uniform"/>
+                                <TextBlock Text="{Binding Name}" VerticalAlignment="Center"
+                                           FontSize="12"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
