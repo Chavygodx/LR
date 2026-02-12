@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Monster",
+    "name": "Monster",
+    "iconName": "monster",
+    "baseLife": 50,
+    "lifeModifier": 54,
+    "baseGold": 15,
+    "goldModifier": 67,
+    "spawnChance": 0.34000000000000002
+  },
+  {
+    "Name": "Rogue",
+    "name": "Rogue",
+    "iconName": "rogue",
+    "baseLife": 100,
+    "lifeModifier": 54,
+    "baseGold": 15,
+    "goldModifier": 67,
+    "spawnChance": 0.65000000000000002
+  },
+  {
+    "Name": "Ghost",
+    "name": "Ghost",
+    "iconName": "ghost",
+    "baseLife": 80,
+    "lifeModifier": 54,
+    "baseGold": 15,
+    "goldModifier": 67,
+    "spawnChance": 0.55000000000000004
+  }
+]

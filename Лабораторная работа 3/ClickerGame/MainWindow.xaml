@@ -1,0 +1,58 @@
+﻿<Window x:Class="ClickerGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Clicker" Height="450" Width="800"
+        ResizeMode="NoResize"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Левая колонка: информация о противнике -->
+        <StackPanel Grid.Column="0" VerticalAlignment="Top" Margin="0,0,20,0">
+            <TextBlock Text="Enemy name:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding EnemyName}" FontSize="16" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Enemy hit point:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding EnemyHitPoints}" FontSize="16" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Gold from enemy:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding EnemyGoldReward}" FontSize="16"/>
+        </StackPanel>
+
+        <!-- Центральная колонка: клик и иконка -->
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBlock Text="Click to deal damage:" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <Border BorderBrush="Black" BorderThickness="2" Width="100" Height="100" Margin="10"
+                    Background="LightGray" MouseDown="EnemyIcon_MouseDown">
+                <Image Source="{Binding EnemyIcon}" Stretch="Uniform"/>
+            </Border>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Repeat" Width="80" Height="30" Margin="5" Click="RepeatButton_Click"/>
+                <Button Content="Next" Width="80" Height="30" Margin="5" Click="NextButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Правая колонка: игрок и улучшение -->
+        <StackPanel Grid.Column="2" VerticalAlignment="Top" Margin="20,0,0,0">
+            <TextBlock Text="Players gold:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding PlayerGold}" FontSize="16" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Players damage:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding PlayerDamage}" FontSize="16" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Level:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding PlayerLevel}" FontSize="16" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Upgrade cost:" FontWeight="Bold"/>
+            <TextBlock Text="{Binding UpgradeCost}" FontSize="16" Margin="0,0,0,10"/>
+
+            <Button Content="Upgrade" Width="100" Height="30" Click="UpgradeButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\cenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:cenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|c:\\users\\chav\\desktop\\\u043B\u04403\\clickergame\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB86C0-B06F-43DA-9114-C794158D931E}|ClickerGame.csproj|solutionrelative:cenemytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainViewModel.cs",
+              "RelativeToolTip": "MainViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:25:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:24:13.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CEnemy.cs",
+              "RelativeDocumentMoniker": "CEnemy.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CEnemy.cs",
+              "RelativeToolTip": "CEnemy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:23:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CPlayer.cs",
+              "RelativeDocumentMoniker": "CPlayer.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CPlayer.cs*",
+              "RelativeToolTip": "CPlayer.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:23:20.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BigNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\BigNumber.cs",
+              "RelativeDocumentMoniker": "BigNumber.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\BigNumber.cs",
+              "RelativeToolTip": "BigNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:22:59.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CEnemyTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CEnemyTemplate.cs",
+              "RelativeDocumentMoniker": "CEnemyTemplate.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\CEnemyTemplate.cs",
+              "RelativeToolTip": "CEnemyTemplate.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:33:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T17:22:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041B\u04203\\ClickerGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:22:24.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
