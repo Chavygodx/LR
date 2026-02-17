@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\addeditquestionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\addeditquestionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\services\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:services\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\quizpasswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\quizpasswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\quizpasswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\quizpasswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\addeditquestionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\addeditquestionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|c:\\users\\chav\\desktop\\\u043A\u0440\\quizapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\views\\editquizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\editquizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\views\\editquizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:views\\editquizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7077F5CC-363B-4CF1-AA4A-8B3068F692FD}|QuizApp.csproj|solutionrelative:models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:07:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\ResultWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ResultWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\ResultWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ResultWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:07:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResultWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\ResultWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ResultWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\ResultWindow.xaml",
+              "RelativeToolTip": "Views\\ResultWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:07:09.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizPassWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\QuizPassWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\QuizPassWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\QuizPassWindow.xaml.cs",
+              "RelativeToolTip": "Views\\QuizPassWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:06:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:00:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditQuestionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\AddEditQuestionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddEditQuestionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\AddEditQuestionWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AddEditQuestionWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:05:52.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:07:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:00:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Services\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Services\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Services\\QuizManager.cs",
+              "RelativeToolTip": "Services\\QuizManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:01:41.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizPassWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\QuizPassWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\QuizPassWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\QuizPassWindow.xaml",
+              "RelativeToolTip": "Views\\QuizPassWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:06:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\InputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\InputDialog.xaml.cs",
+              "RelativeToolTip": "Views\\InputDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:06:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\InputDialog.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\InputDialog.xaml",
+              "RelativeToolTip": "Views\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:06:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEditQuestionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\AddEditQuestionWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AddEditQuestionWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\AddEditQuestionWindow.xaml",
+              "RelativeToolTip": "Views\\AddEditQuestionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:05:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditQuizWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\EditQuizWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditQuizWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\EditQuizWindow.xaml.cs",
+              "RelativeToolTip": "Views\\EditQuizWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:03:47.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditQuizWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\EditQuizWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\EditQuizWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\EditQuizWindow.xaml",
+              "RelativeToolTip": "Views\\EditQuizWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:03:38.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Models\\Entity.cs",
+              "RelativeToolTip": "Models\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:59:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T20:59:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chav\\Desktop\\\u041A\u0420\\QuizApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:59:10.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
